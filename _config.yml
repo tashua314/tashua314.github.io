@@ -21,3 +21,7 @@ github_username:  tashua314
 markdown: kramdown
 host: 0.0.0.0
 exclude: [Rakefile, Gemfile, Gemfile.lock, README.md, vendor]
+comments :
+  provider : disqus
+  disqus :
+    short_name : the-start

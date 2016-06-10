@@ -24,3 +24,4 @@ comments :
   provider : disqus
   disqus :
     short_name : the-start
+google_analytics: UA-79166714-1

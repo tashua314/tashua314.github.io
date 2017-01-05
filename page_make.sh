@@ -50,6 +50,13 @@ echo 'categories: '$category >> _posts/$filetitle
 echo 'type: posts' >> _posts/$filetitle
 echo 'comments: true' >> _posts/$filetitle
 echo '---' >> _posts/$filetitle
+echo '' >> _posts/$filetitle
+echo '[]()' >> _posts/$filetitle
+echo '' >> _posts/$filetitle
+echo '---' >> _posts/$filetitle
+echo '' >> _posts/$filetitle
+echo '### 編集後記' >> _posts/$filetitle
+echo '' >> _posts/$filetitle
 
 # open in subilme
 vi _posts/$filetitle

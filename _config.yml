@@ -17,7 +17,6 @@ twitter_username: tashua314
 github_username:  tashua314
 
 # Build settings
-markdown: kramdown
 highlighter: rouge
 host: 0.0.0.0
 exclude: [Rakefile, Gemfile, Gemfile.lock, README.md, vendor]
@@ -27,6 +26,12 @@ comments :
     short_name : the-start
 google_analytics: UA-79166714-1
 
+markdown: kramdown
 kramdown:
   hard_wrap: true
   coderay_line_numbers: true
+
+plugins_dir:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap

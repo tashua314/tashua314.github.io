@@ -24,6 +24,7 @@ comments :
   provider : disqus
   disqus :
     short_name : the-start
+timezone: Asia/Tokyo
 google_analytics: UA-79166714-1
 
 markdown: kramdown

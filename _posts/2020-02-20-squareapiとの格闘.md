@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SquareAPIとの格闘
-date: 2020-02-20 02:24:43
+date: "2020-02-20 02:24:43"
 categories: daily
 type: posts
 comments: true

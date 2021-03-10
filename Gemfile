@@ -5,9 +5,7 @@ ruby '2.5.3'
 
 # gem "rails"
 gem 'jekyll', '< 4.0.0'
-gem 'redcarpet'
 gem 'kramdown-parser-gfm'
-group :jekyll_plugins do
-  gem 'jekyll-feed'
-  gem 'jekyll-seo-tag'
-end
+gem 'redcarpet'
+
+gem 'github-pages', group: :jekyll_plugins

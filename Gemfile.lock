@@ -262,6 +262,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll (< 4.0.0)
+  jekyll-feed
   kramdown-parser-gfm
   redcarpet
 

@@ -9,3 +9,4 @@ gem 'kramdown-parser-gfm'
 gem 'redcarpet'
 
 gem 'github-pages', group: :jekyll_plugins
+gem 'jekyll-feed'

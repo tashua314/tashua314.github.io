@@ -32,7 +32,7 @@ kramdown:
   hard_wrap: true
   coderay_line_numbers: true
 
-plugins_dir:
+plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap

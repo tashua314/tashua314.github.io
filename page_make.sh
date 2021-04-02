@@ -45,7 +45,7 @@ filetitle=$date-$titleFinal.md
 echo '---' >> _posts/$filetitle
 echo 'layout: post' >> _posts/$filetitle
 echo 'title: '$title >> _posts/$filetitle
-echo 'date: '$datetime >> _posts/$filetitle
+echo 'date: "'$datetime'"' >> _posts/$filetitle
 echo 'categories: '$category >> _posts/$filetitle
 echo 'type: posts' >> _posts/$filetitle
 echo 'comments: true' >> _posts/$filetitle

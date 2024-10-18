@@ -19,7 +19,7 @@ github_username:  tashua314
 # Build settings
 highlighter: rouge
 host: 0.0.0.0
-exclude: [Rakefile, Gemfile, Gemfile.lock, README.md, vendor]
+exclude: [Rakefile, Gemfile, Gemfile.lock, README.md, vendor, node_modules]
 comments :
   provider : disqus
   disqus :
